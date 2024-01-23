@@ -1,0 +1,5 @@
+
+<svg width="300px" height="200px">
+    <circle cx="150px" cy="120px" r="75px" fill="red" />
+    <text x="50%" y="60%" font-size="50px" dominant-baseline="middle" text-anchor="middle" fill="blue">ggg</text>
+</svg>

@@ -1,0 +1,5 @@
+
+<svg width="300px" height="200px">
+    <rect x="75px" y="45px" width="150px" height="150px" fill="purple" />
+    <text x="50%" y="60%" font-size="50px" dominant-baseline="middle" text-anchor="middle" fill="orange">hi</text>
+</svg>
